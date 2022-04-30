@@ -3,7 +3,8 @@
 ## USAGE
 
 1. Add file to your Project
-2. Add BluetoothSerialDelegate property to your view
+2. Add Bluetooth property to your PList
+3. Add BluetoothSerialDelegate property to your view
     ```swift
     struct ContentView: View, BluetoothSerialDelegate {
     ```
